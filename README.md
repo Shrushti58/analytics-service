@@ -6,6 +6,8 @@ A high-performance website analytics service built with **Node.js**, **Express**
 
 ## Architecture Decision
 
+![Architecture Diagram](./arc.png)
+
 ### Asynchronous Processing with Redis Queue
 
 #### **Why We Chose Redis for the Queue**
